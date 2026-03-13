@@ -12,13 +12,15 @@ pipeline {
 
         stage('Pull Code') {
             steps {
-                git 'https://github.com/Nikitapatil0304/docker-ecr-jenkins-project.git '
+                git branch: 'main', url: 'https://github.com/Nikitapatil0304/docker-ecr-jenkins-project.git'
             }
         }
 
         stage('Build Docker Image') {
             steps {
-                sh 'docker build -t $REPO_NAME:$IMAGE_TAG .'
+                sh '''
+                docker build -t $REPO_NAME:$IMAGE_TAG .
+                '''
             }
         }
 
@@ -34,7 +36,7 @@ pipeline {
         stage('Login to ECR') {
             steps {
                 sh '''
-                aws ecr get-login-password --region $AWS_REGION |
+                aws ecr get-login-password --region $AWS_REGION | \
                 docker login --username AWS --password-stdin \
                 $ACCOUNT_ID.dkr.ecr.$AWS_REGION.amazonaws.com
                 '''
