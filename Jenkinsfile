@@ -4,7 +4,7 @@ pipeline {
     environment {
         AWS_REGION = 'ap-south-1'
         ACCOUNT_ID = '718383533665'
-        REPO_NAME = 'docker-ecr-jenkins-project'
+        REPO_NAME = 'jenkins-docker-demo'
         IMAGE_TAG = "${BUILD_NUMBER}"
     }
 
