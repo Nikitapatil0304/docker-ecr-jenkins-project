@@ -310,55 +310,39 @@ Example Data:
 
 # 📸 Screenshots
 
-### Jenkins Pipeline Output
-
-```
+Jenkins Pipeline Output
 <img width="1366" height="734" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/2962a986-a94e-44e4-a4af-7100d126cd03" />
 
-```
-
-### ECR Repository
-
-```
-
+ECR Repository
 <img width="1366" height="727" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/debd0782-ccc8-4ca0-91bd-4549f203dbe2" />
 
+Lambda Logs
+<img width="1536" height="1024" alt="Lambda Logs" src="https://github.com/user-attachments/assets/a7ddc4e0-947b-4b73-a4b5-d6ad07a83b73" />
 
-```
+Jenkins Pipeline Output
+<img width="1366" height="734" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/2962a986-a94e-44e4-a4af-7100d126cd03" />
 
-### Lambda Logs
+ECR Repository
+<img width="1366" height="727" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/debd0782-ccc8-4ca0-91bd-4549f203dbe2" />
 
-```
-<img width="1536" height="1024" alt="ChatGPT Image Mar 15, 2026, 04_06_37 PM" src="https://github.com/user-attachments/assets/a7ddc4e0-947b-4b73-a4b5-d6ad07a83b73" />
+Lambda Logs
+<img width="1536" height="1024" alt="Lambda Logs" src="https://github.com/user-attachments/assets/a7ddc4e0-947b-4b73-a4b5-d6ad07a83b73" />
 
-```
+SNS Email Notification
+<img width="1536" height="1024" alt="SNS Notification" src="https://github.com/user-attachments/assets/532a7ee8-3e2a-47e5-895f-c72fdbf601d9" />
 
-### SNS Email Notification
+DynamoDB Logs
+<img width="1536" height="1024" alt="DynamoDB Logs" src="https://github.com/user-attachments/assets/84e9b8bc-5890-4f14-b81d-c9bff508f534" />
 
-```
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/532a7ee8-3e2a-47e5-895f-c72fdbf601d9" />
+EventBridge Trigger
+<img width="1366" height="768" alt="EventBridge Rule" src="https://github.com/user-attachments/assets/e4b4f42a-9fb9-4f1b-8456-5626ac31eed4" /> 
 
-```
+<img width="1366" height="768" alt="EventBridge Target" src="https://github.com/user-attachments/assets/043c0a3e-a592-4f18-afc8-83a2165b3949" />
 
-### DynamoDB Logs
+Application Running in Docker Container
+<img width="1366" height="727" alt="Application Output" src="https://github.com/user-attachments/assets/3748f55e-53c6-42a7-b8f5-3e17bff35c5d" />
 
-```
-<img width="1536" height="1024" alt="ChatGPT Image Mar 16, 2026, 07_03_03 PM" src="https://github.com/user-attachments/assets/84e9b8bc-5890-4f14-b81d-c9bff508f534" />
 
-```
-### EventBridge Trigger
-```
-<img width="1366" height="768" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/e4b4f42a-9fb9-4f1b-8456-5626ac31eed4" />
-
-<img width="1366" height="768" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/043c0a3e-a592-4f18-afc8-83a2165b3949" />
-
-```
-
-### Application Running in Docker Container
-```
-<img width="1366" height="727" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/3748f55e-53c6-42a7-b8f5-3e17bff35c5d" />
-
-```
 
 ---
 
