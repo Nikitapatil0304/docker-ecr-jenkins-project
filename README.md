@@ -51,6 +51,9 @@ Design and implement a CI/CD pipeline where:
 
 # 🏗️ Architecture Diagram
 
+<img width="1536" height="1024" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/1124a990-b055-480a-8652-9438a7f07c8d" />
+
+
 ```
 Developer
    │
